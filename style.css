@@ -39,7 +39,7 @@ header {
     flex-direction: column;
     text-align: center;
     transition: all 1s;
-    min-height: 800px;
+    height: 800px;
 }
 
 .headerimg {
@@ -446,7 +446,7 @@ footer {
     }
 
     header {
-        min-height: 75vh;
+        height: 75vh;
     }
 
     .headerimg {
